@@ -1,0 +1,41 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!/src/main/
+!/src/test/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+'.idea'
+'*.mvn'
+lets-book-react-app/.mvn
+lets-book-react-app/mvnw
+lets-book-react-app/mvnw.cmd
+lets-book-react-app/target
+lets-book-react-app/web
+lets-book-react-app/lets-book-react-app.iml
+lets-book-react-app/lets-book-react-app.iml
+node_modules/**.idea
