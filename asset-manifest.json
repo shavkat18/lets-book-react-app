@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lets-book-react-app/static/css/main.c20f879f.chunk.css",
+    "main.js": "/lets-book-react-app/static/js/main.23c81cf7.chunk.js",
+    "main.js.map": "/lets-book-react-app/static/js/main.23c81cf7.chunk.js.map",
+    "runtime-main.js": "/lets-book-react-app/static/js/runtime-main.815259ba.js",
+    "runtime-main.js.map": "/lets-book-react-app/static/js/runtime-main.815259ba.js.map",
+    "static/css/2.29cc72bc.chunk.css": "/lets-book-react-app/static/css/2.29cc72bc.chunk.css",
+    "static/js/2.69d1308b.chunk.js": "/lets-book-react-app/static/js/2.69d1308b.chunk.js",
+    "static/js/2.69d1308b.chunk.js.map": "/lets-book-react-app/static/js/2.69d1308b.chunk.js.map",
+    "static/js/3.f1b09080.chunk.js": "/lets-book-react-app/static/js/3.f1b09080.chunk.js",
+    "static/js/3.f1b09080.chunk.js.map": "/lets-book-react-app/static/js/3.f1b09080.chunk.js.map",
+    "index.html": "/lets-book-react-app/index.html",
+    "static/css/2.29cc72bc.chunk.css.map": "/lets-book-react-app/static/css/2.29cc72bc.chunk.css.map",
+    "static/css/main.c20f879f.chunk.css.map": "/lets-book-react-app/static/css/main.c20f879f.chunk.css.map",
+    "static/js/2.69d1308b.chunk.js.LICENSE.txt": "/lets-book-react-app/static/js/2.69d1308b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.815259ba.js",
+    "static/css/2.29cc72bc.chunk.css",
+    "static/js/2.69d1308b.chunk.js",
+    "static/css/main.c20f879f.chunk.css",
+    "static/js/main.23c81cf7.chunk.js"
+  ]
+}
