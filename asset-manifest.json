@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/lets-book-react-app/static/css/main.b3b41ab1.chunk.css",
-    "main.js": "/lets-book-react-app/static/js/main.a9e829f5.chunk.js",
-    "main.js.map": "/lets-book-react-app/static/js/main.a9e829f5.chunk.js.map",
+    "main.css": "/lets-book-react-app/static/css/main.506d7371.chunk.css",
+    "main.js": "/lets-book-react-app/static/js/main.908bef08.chunk.js",
+    "main.js.map": "/lets-book-react-app/static/js/main.908bef08.chunk.js.map",
     "runtime-main.js": "/lets-book-react-app/static/js/runtime-main.815259ba.js",
     "runtime-main.js.map": "/lets-book-react-app/static/js/runtime-main.815259ba.js.map",
     "static/css/2.29cc72bc.chunk.css": "/lets-book-react-app/static/css/2.29cc72bc.chunk.css",
@@ -12,16 +12,17 @@
     "static/js/3.f1b09080.chunk.js.map": "/lets-book-react-app/static/js/3.f1b09080.chunk.js.map",
     "index.html": "/lets-book-react-app/index.html",
     "static/css/2.29cc72bc.chunk.css.map": "/lets-book-react-app/static/css/2.29cc72bc.chunk.css.map",
-    "static/css/main.b3b41ab1.chunk.css.map": "/lets-book-react-app/static/css/main.b3b41ab1.chunk.css.map",
+    "static/css/main.506d7371.chunk.css.map": "/lets-book-react-app/static/css/main.506d7371.chunk.css.map",
     "static/js/2.69d1308b.chunk.js.LICENSE.txt": "/lets-book-react-app/static/js/2.69d1308b.chunk.js.LICENSE.txt",
     "static/media/img_1.6d810b0f.png": "/lets-book-react-app/static/media/img_1.6d810b0f.png",
-    "static/media/img_2.500730de.png": "/lets-book-react-app/static/media/img_2.500730de.png"
+    "static/media/img_2.500730de.png": "/lets-book-react-app/static/media/img_2.500730de.png",
+    "static/media/logo.9cc90531.png": "/lets-book-react-app/static/media/logo.9cc90531.png"
   },
   "entrypoints": [
     "static/js/runtime-main.815259ba.js",
     "static/css/2.29cc72bc.chunk.css",
     "static/js/2.69d1308b.chunk.js",
-    "static/css/main.b3b41ab1.chunk.css",
-    "static/js/main.a9e829f5.chunk.js"
+    "static/css/main.506d7371.chunk.css",
+    "static/js/main.908bef08.chunk.js"
   ]
 }
