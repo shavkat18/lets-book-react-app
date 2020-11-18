@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/lets-book-react-app/static/css/main.fb957b80.chunk.css",
-    "main.js": "/lets-book-react-app/static/js/main.20915c1a.chunk.js",
-    "main.js.map": "/lets-book-react-app/static/js/main.20915c1a.chunk.js.map",
+    "main.css": "/lets-book-react-app/static/css/main.e0b906cc.chunk.css",
+    "main.js": "/lets-book-react-app/static/js/main.9cbd7a09.chunk.js",
+    "main.js.map": "/lets-book-react-app/static/js/main.9cbd7a09.chunk.js.map",
     "runtime-main.js": "/lets-book-react-app/static/js/runtime-main.815259ba.js",
     "runtime-main.js.map": "/lets-book-react-app/static/js/runtime-main.815259ba.js.map",
     "static/css/2.29cc72bc.chunk.css": "/lets-book-react-app/static/css/2.29cc72bc.chunk.css",
-    "static/js/2.69d1308b.chunk.js": "/lets-book-react-app/static/js/2.69d1308b.chunk.js",
-    "static/js/2.69d1308b.chunk.js.map": "/lets-book-react-app/static/js/2.69d1308b.chunk.js.map",
+    "static/js/2.629c0e2e.chunk.js": "/lets-book-react-app/static/js/2.629c0e2e.chunk.js",
+    "static/js/2.629c0e2e.chunk.js.map": "/lets-book-react-app/static/js/2.629c0e2e.chunk.js.map",
     "static/js/3.f1b09080.chunk.js": "/lets-book-react-app/static/js/3.f1b09080.chunk.js",
     "static/js/3.f1b09080.chunk.js.map": "/lets-book-react-app/static/js/3.f1b09080.chunk.js.map",
     "index.html": "/lets-book-react-app/index.html",
     "static/css/2.29cc72bc.chunk.css.map": "/lets-book-react-app/static/css/2.29cc72bc.chunk.css.map",
-    "static/css/main.fb957b80.chunk.css.map": "/lets-book-react-app/static/css/main.fb957b80.chunk.css.map",
-    "static/js/2.69d1308b.chunk.js.LICENSE.txt": "/lets-book-react-app/static/js/2.69d1308b.chunk.js.LICENSE.txt",
+    "static/css/main.e0b906cc.chunk.css.map": "/lets-book-react-app/static/css/main.e0b906cc.chunk.css.map",
+    "static/js/2.629c0e2e.chunk.js.LICENSE.txt": "/lets-book-react-app/static/js/2.629c0e2e.chunk.js.LICENSE.txt",
     "static/media/Oval_1.224524c1.png": "/lets-book-react-app/static/media/Oval_1.224524c1.png",
     "static/media/Oval_4.0ebbd219.png": "/lets-book-react-app/static/media/Oval_4.0ebbd219.png",
     "static/media/Oval_6.aeb7d8f2.png": "/lets-book-react-app/static/media/Oval_6.aeb7d8f2.png",
+    "static/media/Rectangle.eb7d22a3.png": "/lets-book-react-app/static/media/Rectangle.eb7d22a3.png",
     "static/media/img_1.6d810b0f.png": "/lets-book-react-app/static/media/img_1.6d810b0f.png",
     "static/media/img_2.500730de.png": "/lets-book-react-app/static/media/img_2.500730de.png",
     "static/media/logo.9cc90531.png": "/lets-book-react-app/static/media/logo.9cc90531.png"
@@ -24,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.815259ba.js",
     "static/css/2.29cc72bc.chunk.css",
-    "static/js/2.69d1308b.chunk.js",
-    "static/css/main.fb957b80.chunk.css",
-    "static/js/main.20915c1a.chunk.js"
+    "static/js/2.629c0e2e.chunk.js",
+    "static/css/main.e0b906cc.chunk.css",
+    "static/js/main.9cbd7a09.chunk.js"
   ]
 }
